@@ -1,0 +1,211 @@
+@import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.firstPage{
+
+    background-image: url("kkk.jpg");
+   
+    height: 700px;
+    
+    background-repeat: no-repeat;
+    position: relative;
+    top: -75px;
+   
+}
+ul{
+   list-style: none;
+   text-decoration: none;
+  
+}
+li{
+  float: right;
+  padding: 20px;
+  position: relative;
+  right: -200px;
+
+}
+
+.list {
+  color:rgb(119, 128, 136);
+  font-size: 30px;
+ letter-spacing: 2px;
+ font-family: 'Zhi Mang Xing', cursive;
+ margin: 70px;
+ padding: 10px;
+ 
+
+}
+.hr
+{
+    width: 80%; 
+    text-align: center;
+    margin-top: 10px;
+} 
+.logo{
+  font-family: 'Zhi Mang Xing', cursive;
+  position: relative;
+right:1100px;
+ color: black;
+ font-size: xx-large;
+ 
+}
+.home{
+  color: rgb(250, 250, 250);
+  text-decoration: none;
+ 
+  
+  padding: 5px;
+  
+}
+.contact{
+  text-decoration: none;
+  color: white;
+  left: 250px;
+ 
+  padding: 5px;
+  
+}
+.news{
+  text-decoration: none;
+  color: white;
+  
+  padding: 5px;
+  
+} 
+/* al klam ali f nos awl back ground */
+.mid{             
+
+  text-align: center;
+  text-shadow:5px 5px 5px  #b7d4ff;
+  font-size: 60px;
+  margin-top: 100px;
+  font-family: 'Satisfy', cursive;
+  color: black;
+  letter-spacing: 1px;
+}
+.mid2{
+  text-align: center;
+
+  font-size: 20px;
+margin-top: -80px;
+font-style: italic;
+  color: black;
+
+}/*sec section*/
+.cety{
+ 
+  margin-top: -130px;
+  
+}
+.back{
+  background-color: 	#223E49;
+  opacity: 0.95;
+}
+.capital{
+  box-shadow: 5px 5px 5px  5px  #b7d4ff;
+  border-radius: 5%;
+  height: 300px;
+}/* klmt places*/
+.beg{
+  text-align: center;
+font-size: 50px;
+color: #b7d4ff;
+text-shadow: 5px 5px 5px grey;
+
+
+}.capitaltext{
+  color: white;
+  font-size: 30px;
+  position: relative;
+  left: 580px;
+  top: -300px;
+  font-family: 'Source Serif Pro', serif;
+  text-shadow: 5px 5px 5px black;
+   
+}
+.praco{
+  position: relative;
+  left: 580px;
+  top: -300px;
+  color: black;
+  font-style: bold;
+}/* buttom see more*/
+.seemore{
+  background-color: black;
+  border-radius: 20px;
+  border: none;
+  padding: 16px 32px;
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  left: 780px;
+  top: -300px;
+  font-size: 40px;
+  box-shadow: 2px 2px 2px  2px steelblue ;
+  
+  font-family: 'Satisfy', cursive;
+  color: steelblue;
+  cursor: pointer;
+ 
+}
+.seemore:hover
+{
+	transform: scale(1.1,1);
+	transition: all ease-in-out 0.5s;
+    color: black ;
+    background-color: white;
+}
+
+
+
+/*sec img fl places*/
+.cameron{
+  box-shadow: 5px 5px 5px  5px  #b7d4ff;
+  border-radius: 5%;
+  height: 300px;
+ margin-top:  -100px;
+ width: 540px;
+}/*cameron text*/
+.camtext{
+  color: white;
+  font-size: 30px;
+  position: relative;
+  left: 580px;
+  top: -300px;
+  font-family: 'Source Serif Pro', serif;
+  text-shadow: 5px 5px 5px black;
+}
+.campar{
+  position: relative;
+  left: 580px;
+  top: -300px;
+  color: black;
+  font-style: bold;
+}
+.turtle{
+  box-shadow: 5px 5px 5px  5px  #b7d4ff;
+  border-radius: 5%;
+  height: 300px;
+ margin-top:  -100px;
+ width: 540px;
+}
+.turtext{
+  color: white;
+  font-size: 30px;
+  position: relative;
+  left: 580px;
+  top: -300px;
+  font-family: 'Source Serif Pro', serif;
+  text-shadow: 5px 5px 5px black;
+}
+.turpar{
+  position: relative;
+  left: 580px;
+  top: -300px;
+  color: black;
+  font-style: bold;
+}

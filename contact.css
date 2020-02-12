@@ -1,0 +1,161 @@
+@import url('https://fonts.googleapis.com/css?family=Zhi+Mang+Xing&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Satisfy&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Source+Serif+Pro&display=swap');
+body{
+    margin: 0;
+    padding: 0;
+}
+.firstPage{
+
+    background-image: url("finaly3.jpg");
+   
+    height: 700px;
+    
+    background-repeat: no-repeat;
+    position: relative;
+    top: -75px;
+   opacity: 0.90;
+
+}
+ul{
+   list-style: none;
+   text-decoration: none;
+  
+}
+li{
+  float: right;
+  padding: 20px;
+  position: relative;
+  right: -200px;
+
+}
+
+.list {
+  color:rgb(119, 128, 136);
+  font-size: 30px;
+ letter-spacing: 2px;
+ font-family: 'Zhi Mang Xing', cursive;
+ margin: 70px;
+ padding: 10px;
+ 
+
+}
+.hr
+{
+    width: 80%; 
+    text-align: center;
+    margin-top: 10px;
+} 
+.logo{
+  font-family: 'Zhi Mang Xing', cursive;
+  position: relative;
+right:1100px;
+ color: black;
+ font-size: xx-large;
+ 
+}
+.home{
+  color: rgb(250, 250, 250);
+  text-decoration: none;
+ 
+  
+  padding: 5px;
+  
+}
+.contact{
+  text-decoration: none;
+  color: white;
+  left: 250px;
+ 
+  padding: 5px;
+  
+}
+.news{
+  text-decoration: none;
+  color: white;
+  
+  padding: 5px;
+  
+} 
+.contact{
+    text-align: center;
+    align-items: center;
+}input[type=text], select {
+    width: 40%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 40%;
+    background-color:steelblue;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    position: relative;
+    left: -245px;
+  
+  }
+  
+  input[type=submit]:hover {
+    background-color:steelblue;
+  }
+  
+ div{
+    
+     align-items: center;
+ margin-top: 150px;
+ }
+ .text{
+     position: relative;
+    bottom: 50px;
+    left: 230px;
+    text-shadow: 5px 5px 5px steelblue;
+    letter-spacing: 1px;
+    font-size: large;
+    font-style: bold;
+ }
+ .in{
+     position: relative;
+     left: 200px;
+ }
+ .on{
+    position: relative;
+    top: 30px;
+    left: -400px;
+    text-shadow: 5px 5px 5px steelblue;
+    letter-spacing: 1px;
+    font-size: large;
+    font-style: bold;
+ }
+.in2{
+    position: relative;
+    left: -435px;
+    top: 70px;
+} 
+.text3{
+    position: relative;
+    top: 120px;
+    left: -1000px;
+    text-shadow: 5px 5px 5px steelblue;
+    letter-spacing: 1px;
+    font-size: large;
+    font-style: bold;
+}
+.in3{
+    position: relative;
+    left: 300px;
+    top: 100px;
+}
+.inp{
+    position: relative;
+    top: 150px;
+    
+}
